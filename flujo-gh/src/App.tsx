@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <label>prueba1</label>
-        <p>modificacion desde la rama antonio</p>
+        <p>modificacion en la rama argiro</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
